@@ -1,0 +1,7 @@
+#include "print.c"
+#include "hexboard.c"
+#include "simulation2.c"
+#include "win.c"
+#include "update.c"
+#include "shuffle.c"
+#include "select.c"
